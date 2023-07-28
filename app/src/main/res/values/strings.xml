@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">FlutterProject</string>
+    <string name="accessibility_description">accessibility_description</string>
+    <string name="description_for_test">
+        1. 두 번째 버튼 클릭 -> 접근성 허용 (첫 번째 옵션)\n\n
+        2. 되돌아와서 첫 번째 버튼 클릭 -> 유튜브 차단 됐으면 성공! 뜸\n\n
+        3. 앱 끄지 말고 그냥 백그라운드에 두고\n\n
+        4. 유튜브 앱 들어가면 차단 확인 가능\n\n
+        5. 그냥 하단 출력 창에서 "youtube 차단" 출력\n\n
+        (원래 메시지를 띄우려고 했는데 차단이 두 번 연달아 실행되는 것 같아서 뭔가 이상한 듯.. 아직)
+    </string>
+</resources>
